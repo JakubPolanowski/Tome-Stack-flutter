@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 
 // Image & Video Gallery
 // Attachement Tree
-// --> Toggle Attached only (not inline image/video)\
+// --> Toggle Attached only (not inline image/video)
+// Recently Deleted
 
 // Admin override -> show everything (even private, not shared with admin account)
 // Admin override -> delete
