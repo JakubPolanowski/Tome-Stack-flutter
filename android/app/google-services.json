@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "740834989779",
+    "project_id": "tomestack-firebase",
+    "storage_bucket": "tomestack-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740834989779:android:4efabd973f05a54d2da626",
+        "android_client_info": {
+          "package_name": "xyz.jakubpol.tome_stack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740834989779-hdj5difshfnhgrrgif9ia4rb3ee0o7vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.jakubpol.tome_stack",
+            "certificate_hash": "b08d2d24416ae9ff75f0014f825494496425dd8b"
+          }
+        },
+        {
+          "client_id": "740834989779-n5m4pq1ej5og7oajn3hnhj2e1bf62vef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpApxL7Fx3MLLU0eVfr_tQ36VaO1CyWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740834989779-n5m4pq1ej5og7oajn3hnhj2e1bf62vef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740834989779-nj6lt74mqcb1a7gcl6r1j0oh3o7eh86n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "xyz.jakubpol.tome-stack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
