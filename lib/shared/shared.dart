@@ -1,5 +1,9 @@
+export 'book_nav.dart';
 export 'bottom_nav.dart';
+export 'comments.dart';
 export 'error.dart';
 export 'loading.dart';
+export 'path_nav.dart';
+export 'permissions_editor.dart';
 export 'progress_bar.dart';
 export 'top_nav.dart';
