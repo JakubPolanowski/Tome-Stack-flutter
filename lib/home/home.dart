@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:tome_stack/shared/nav_views/desktop_nav.dart';
+import 'package:tome_stack/shared/nav_views/mobile_nav.dart';
+import 'package:tome_stack/shared/shared.dart';
 
 // TODO IMPLEMENT
 // Should have the following
@@ -13,6 +16,14 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Column(children: const [TopNavigationBar()]),
+    );
+    // return Scaffold(
+    //     body: Center(
+    //         child: ElevatedButton(
+    //             child: Text('about'),
+    //             onPressed: () =>
+    //                 Navigator.pushReplacementNamed(context, '/about'))));
   }
 }
